@@ -26,5 +26,5 @@ EOF
 docker build -t <image name> .
 ```
 
-
+## Don't forget to delete .env file in host !!
 
