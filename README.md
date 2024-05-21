@@ -9,7 +9,7 @@ Multi stage can generate secrets with no artifacts in final image. It's a PoC, n
 ## Download Dockerfile
 
 ```
-wget 
+git clone https://github.com/NonneTrapuE/cAdvisor_htpasswd.git
 ```
 
 ## Create .env file
